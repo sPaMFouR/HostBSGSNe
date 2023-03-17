@@ -8,6 +8,7 @@ The repository houses material for planning IFU observations of host environment
 The code just began development in Feb 2023.
 
 Global Requirements:
+
 - os
 - numpy
 - urllib
@@ -16,10 +17,11 @@ Global Requirements:
 - astroquery
 - matplotlib
 
-
 ## 1) FormatSample.ipynb
-Required File(s): [`TargetList.dat`]<br />
-Output File(s): [PlanTarget.png]<br />
+Required File(s): [`data/AMUSINGSample.csv`]<br />
+Output File(s): [data/AMUSING_CCSNe.dat]<br />
+
+- 'FormatSample.ipynb' is a jupyter-notebook for filtering out observations performed by AMUSING survey on host environments of CCSNe.
 
 ## 1) PlanningIFU.ipynb
 Required File(s): [`TargetList.dat`]<br />
