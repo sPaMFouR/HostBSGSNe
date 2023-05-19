@@ -19,13 +19,13 @@ Global Requirements:
 
 ## 1) FormatSample.ipynb
 Required File(s): [`data/AMUSINGSample.csv`]<br />
-Output File(s): [data/AMUSING_CCSNe.dat]<br />
+Output File(s): [`data/AMUSING_CCSNe.dat`]<br />
 
 - 'FormatSample.ipynb' is a jupyter-notebook for filtering out observations performed by AMUSING survey on host environments of CCSNe.
 
 ## 2) PlanningIFU.ipynb
 Required File(s): [`TargetList.dat`]<br />
-Output File(s): [PlanTarget.png]<br />
+Output File(s): [`findingchart/PlanTarget.png`]<br />
 
 Descriptipn:
 - 'PlanningIFU.ipynb' is a jupyter-notebook for planning IFU observations and plot finding charts for targets superposed with the IFU pointing.
